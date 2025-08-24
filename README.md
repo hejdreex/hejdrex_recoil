@@ -1,6 +1,6 @@
 # hejdrex_recoil
 ## Features
-- Every recoil value can be changed in the clinet.lua
+- Every recoil value can be changed in the client.lua
 - Script takes 0.00 ms in client preformance
 - Fully Open-Source (full access)
 
