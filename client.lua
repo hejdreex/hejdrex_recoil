@@ -16,10 +16,12 @@ local groupMult = {
     [GetHashKey("GROUP_SHOTGUN")]  = 1.65,
     [GetHashKey("GROUP_SNIPER")]   = 1.85,
     [GetHashKey("GROUP_HEAVY")]    = 2.00,
+    -- You can add here more groups
     -- Melee
     [GetHashKey("GROUP_MELEE")]    = 0.00,
     [GetHashKey("GROUP_THROWN")]   = 0.00,
     [GetHashKey("GROUP_PETROLCAN")] = 0.00,
+    -- You can add here more groups
 }
 
 local function EnsureNoDrunkShake()
